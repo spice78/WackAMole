@@ -1,0 +1,15 @@
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/whack_a_mole.csproj.AssemblyReference.cache
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/whack_a_mole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/whack_a_mole.AssemblyInfoInputs.cache
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/whack_a_mole.AssemblyInfo.cs
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/whack_a_mole.csproj.CoreCompileInputs.cache
+/Users/andre/programm/CSharp/whack_a_mole/bin/Debug/net5.0/whack_a_mole.deps.json
+/Users/andre/programm/CSharp/whack_a_mole/bin/Debug/net5.0/whack_a_mole.runtimeconfig.json
+/Users/andre/programm/CSharp/whack_a_mole/bin/Debug/net5.0/whack_a_mole.runtimeconfig.dev.json
+/Users/andre/programm/CSharp/whack_a_mole/bin/Debug/net5.0/whack_a_mole.dll
+/Users/andre/programm/CSharp/whack_a_mole/bin/Debug/net5.0/ref/whack_a_mole.dll
+/Users/andre/programm/CSharp/whack_a_mole/bin/Debug/net5.0/whack_a_mole.pdb
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/whack_a_mole.dll
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/ref/whack_a_mole.dll
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/whack_a_mole.pdb
+/Users/andre/programm/CSharp/whack_a_mole/obj/Debug/net5.0/whack_a_mole.genruntimeconfig.cache
